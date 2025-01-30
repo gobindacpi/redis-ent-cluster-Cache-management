@@ -91,7 +91,7 @@ Auto-scaling Best Practices:
     Encrypt data using TLS.
     Rotate authentication tokens regularly.
 ~~~
-##z 8. Troubleshooting Common Issues
+## 8. Troubleshooting Common Issues
 ~~~
 Issue	Possible Cause	Solution
 High Latency	Network congestion, high memory usage	Optimize queries, increase nodes
