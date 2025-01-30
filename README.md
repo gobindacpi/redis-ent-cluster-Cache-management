@@ -83,7 +83,7 @@ Auto-scaling Best Practices:
     Schedule backups using the Redis Enterprise backup tool.
     Enable cross-region replication for geo-redundancy.
     Use Active-Active deployment for multi-datacenter caching.
-~~~!
+~~~
 ## 7. Security Best Practices
 ~~~
     Enable role-based access control (RBAC).
